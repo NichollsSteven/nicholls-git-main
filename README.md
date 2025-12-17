@@ -1,2 +1,1 @@
-# Practica-Nicholls
-# nicholls-git-main
+#Esta es la Practica que estoy realizando para aprender Git
